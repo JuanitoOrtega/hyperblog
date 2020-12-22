@@ -43,7 +43,6 @@ body {
 #post {
     background: white;
     padding: 1.2em;
-    margin: 1em;
 }
 
 #footer {
@@ -52,4 +51,5 @@ body {
     text-align: center;
     padding: 0.5em;
     font-size: 1.2em;
+    padding: 1.5em;
 }
